@@ -1,11 +1,16 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,19,20,21&height=200&section=header&text=Tejas%20Upadhyay&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Architecture%20Engineer%20%7C%20RAG%20Specialist%20%7C%20Multi-Agent%20Systems&descSize=18&descAlignY=55&descColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,19,20,21&height=200&section=header&text=Tejas%20Upadhyay&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Architecture%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=55&descColor=ffffff" />
 </div>
 
 <!-- Dynamic Typing -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=650&height=120&lines=Building+Advanced+AI+Architectures;Specializing+in+RAG+%26+Multi-Agent+Systems;VIT+'25+%7C+Computer+Science+and+AI" />
+</div>
+
+<!-- Profile Views -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=TejasUpadhyayy&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" />
 </div>
 
 <br/>
@@ -22,6 +27,11 @@ class AIEngineer:
             "⚡ Infrastructure": ["Distributed Systems", "Cloud Architecture", "MLOps"],
             "🛠️ Development": ["Full Stack", "System Design", "API Integration"]
         }
+        self.current_focus = [
+            "⭐️ Building Advanced AI Systems",
+            "🌱 Exploring Multi-Agent Architectures",
+            "🎯 Developing Scalable Solutions"
+        ]
         self.contact = "tejas.initiate@gmail.com"
 ```
 
@@ -79,6 +89,14 @@ Real-Time Content Generation System
   <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
 
+### 🌐 Web Development
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
+
 ### ☁️ Infrastructure
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
@@ -93,6 +111,17 @@ Real-Time Content Generation System
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
 </p>
+</div>
+
+<!-- GitHub Stats -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TejasUpadhyayy&show_icons=true&theme=nightowl&hide_border=true&bg_color=1a1b27&title_color=7C3AED&icon_color=7C3AED"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=TejasUpadhyayy&theme=nightowl&hide_border=true&background=1a1b27&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED"/>
+</div>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TejasUpadhyayy&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7C3AED&line=7C3AED&point=ffffff" alt="Activity Graph" />
 </div>
 
 <!-- Certifications -->
@@ -110,12 +139,6 @@ Real-Time Content Generation System
   </p>
 </div>
 
-<!-- GitHub Stats -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TejasUpadhyayy&show_icons=true&theme=nightowl&hide_border=true&bg_color=1a1b27&title_color=7C3AED&icon_color=7C3AED"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=TejasUpadhyayy&theme=nightowl&hide_border=true&background=1a1b27&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED"/>
-</div>
-
 <!-- Connect -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
@@ -128,6 +151,9 @@ Real-Time Content Generation System
   </a>
   <a href="https://linkedin.com/in/your-profile">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/TejasUpadhyayy">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   <a href="https://github.com/TejasUpadhyayy">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
