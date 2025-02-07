@@ -1,74 +1,127 @@
+<!-- Header -->
 <div align="center">
-  <!-- Retro-style header with gradient -->
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24&height=180&section=header&text=Hello%20World&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20digital%20garden%20🌱&descAlignY=55" width="100%" />
-
-  <!-- Minimalistic typing animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=A7C7E7&center=true&vCenter=true&repeat=false&width=435&lines=iOS+Developer;UI%2FUX+Enthusiast;Open+Source+Contributor" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,19,20,21&height=200&section=header&text=Tejas%20Upadhyay&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer%20|%20Generative%20AI%20Specialist%20|%20RAG%20Expert&descSize=18&descAlignY=55&descColor=ffffff" />
 </div>
 
-<!-- Clean divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme-art/master/assets/lines/rainbow.png" width="100%">
-
-<!-- About Me Section -->
+<!-- Dynamic Typing -->
 <div align="center">
-  <h3>⌥ About Me</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=650&height=120&lines=Building+Next-Gen+AI+Solutions;Specialized+in+LLMs,+Computer+Vision+%26+RAG;Transforming+Ideas+into+Intelligent+Reality" />
+</div>
+
+<!-- AI Badge Collection -->
+<div align="center">
+  <a href="#"><img src="https://img.shields.io/badge/PyTorch-Expert-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/TensorFlow-Expert-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Langchain-Expert-339933?style=for-the-badge&logo=chainlink&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/HuggingFace-Expert-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
+</div>
+
+<br/>
+
+<!-- Expertise Areas -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/KPXRWVxIw1B53SRpv3/giphy.gif" width="35px" height="35px">
+    AI/ML Expertise
+  </h2>
+</div>
+
+```python
+class AIMLEngineer:
+    def __init__(self):
+        self.name = "Tejas Upadhyay"
+        self.role = "AI/ML Engineer"
+        self.specializations = {
+            "🤖 Generative AI": ["LLMs", "Stable Diffusion", "GANs"],
+            "🧠 NLP": ["RAG Systems", "Transformers", "BERT/GPT"],
+            "👁️ Computer Vision": ["Object Detection", "Image Segmentation", "Neural Style Transfer"],
+            "🎨 VFX": ["Blender", "Motion Graphics", "3D Modeling"],
+            "🔧 MLOps": ["Model Deployment", "Pipeline Optimization", "Scalable AI Systems"]
+        }
+```
+
+<!-- Tech Stack -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" height="28"/>
+    Tech Arsenal
+  </h2>
+</div>
+
+<div align="center">
+  <h3>🧠 Core AI/ML</h3>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" /><br/>
+  
+  <h3>🛠️ Development & Deployment</h3>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp&theme=dark" /><br/>
+  
+  <h3>🎨 Creative Tools</h3>
+  <img src="https://skillicons.dev/icons?i=blender,unreal,unity&theme=dark" />
+</div>
+
+<!-- Current Projects -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28" height="28"/>
+    Current AI Projects
+  </h2>
+</div>
+
+<div align="center">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TejasUpadhyayy&repo=YourAIProject1&theme=nightowl&hide_border=true&bg_color=1a1b27&title_color=7C3AED&icon_color=7C3AED" />
+  </a>
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TejasUpadhyayy&repo=YourAIProject2&theme=nightowl&hide_border=true&bg_color=1a1b27&title_color=7C3AED&icon_color=7C3AED" />
+  </a>
+</div>
+
+<!-- GitHub Stats -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TejasUpadhyayy&show_icons=true&theme=nightowl&hide_border=true&bg_color=1a1b27&title_color=7C3AED&icon_color=7C3AED"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=TejasUpadhyayy&theme=nightowl&hide_border=true&background=1a1b27&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED"/>
+</div>
+
+<!-- Activity Graph -->
+<div align="center">
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TejasUpadhyayy&theme=nightowl&hide_border=true&bg_color=1a1b27&color=7C3AED&line=7C3AED&point=ffffff" alt="Activity Graph"/>
+</div>
+
+<!-- Research & Publications -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28" height="28"/>
+    Research Focus
+  </h2>
+</div>
+
+<div align="center">
   <p>
-    <samp>
-      「 Building beautiful & intuitive experiences 」
-      <br>
-      「 Based in [Your Location] 」
-    </samp>
+    🔬 Researching: Advanced RAG Architectures & Multi-Modal AI Systems<br/>
+    📚 Publishing: Papers on LLM Optimization & Efficient Prompt Engineering<br/>
+    🎯 Building: Agentic AI Systems & Advanced VFX Pipelines
   </p>
 </div>
 
-<!-- Tech Stack - Minimalist Style -->
+<!-- Connect Section -->
 <div align="center">
-  <h3>⌘ Tech Stack</h3>
-  <p>
-    <a href="#"><img src="https://img.shields.io/badge/swift-%23FA7343.svg?style=flat-square&logo=swift&logoColor=white"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/></a>
-  </p>
-</div>
-
-<!-- Stats Section - Minimalistic -->
-<details align="center">
-  <summary><b>⌃ GitHub Analytics</b></summary>
-  <br>
-  <p align="center">
-    <img width="400px" src="https://github-readme-stats.vercel.app/api?username=TejasUpadhyayy&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&text_color=d0d0d0&icon_color=A7C7E7&title_color=A7C7E7&bg_color=ffffff00" alt="Github Stats"/>
-    <br>
-    <img width="400px" src="https://streak-stats.demolab.com?user=TejasUpadhyayy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=ffffff00&ring=A7C7E7&fire=A7C7E7&currStreakNum=d0d0d0&sideNums=d0d0d0&currStreakLabel=A7C7E7&sideLabels=A7C7E7&dates=d0d0d0"/>
-  </p>
-</details>
-
-<!-- Current Work - Clean Style -->
-<div align="center">
-  <h3>⇧ Current Focus</h3>
-  <samp>
-    ⭐️ Working on [Project Name]<br>
-    🌱 Learning [Technology]<br>
-    🎯 Goal: [Your Goal]
-  </samp>
-</div>
-
-<!-- Connect Section - Minimal iOS Style -->
-<div align="center">
-  <h3>⌥ Connect</h3>
-  <p>
-    <a href="https://twitter.com/your-handle">
-      <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/your-handle"/>
-    </a>
-    <a href="https://linkedin.com/in/your-profile">
-      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/your-profile"/>
-    </a>
-    <a href="mailto:your.email@domain.com">
-      <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:your.email@domain.com"/>
-    </a>
-  </p>
+  <h2>
+    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28" height="28"/>
+    Let's Collaborate
+  </h2>
+  <a href="https://linkedin.com/in/TejasUpadhyayy">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/TejasUpadhyayy">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://huggingface.co/TejasUpadhyayy">
+    <img src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  </a>
 </div>
 
 <!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,19,20,21&height=100&section=footer"/>
 </div>
