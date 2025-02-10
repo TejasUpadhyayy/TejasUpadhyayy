@@ -89,13 +89,6 @@ Enterprise-Grade RAG System
 - 90% semantic accuracy in content synthesis
 - Real-time document streaming & indexing
 
-### 🤖 AgentForge
-Multi-Agent Development Framework
-- Autonomous agent orchestration platform
-- Tool-using agents with LLM integration
-- Dynamic task planning & execution
-- Real-time agent communication protocol
-- Scalable agent deployment architecture
 </div>
 
 <!-- Tech Stack -->
