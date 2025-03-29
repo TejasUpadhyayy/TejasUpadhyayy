@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=TejasUpadhyayy&style=flat-square&color=7C3AED&label=VIEWS" height="22" />
 </div>
 
-<!-- About Me Code Section -->
+## 🚀 About Me
 ```python
 class AIEngineer:
     def __init__(self):
@@ -23,98 +23,48 @@ class AIEngineer:
         self.contact = "tejas.initiate@gmail.com"
 ```
 
-<!-- Featured Projects + Tech Stack Combined -->
+## 🎯 Flagship Projects
+| Project | Description |
+|---------|-------------|
+| **MarketRes** | Multi-Agent Market Analysis System with LangChain & AutoGPT, reducing research time by 80% with 99.9% reliability |
+| **CoraNet** | GNN architecture with attention mechanisms for ML forecasting using temporal graph networks |
+| **NoCap RAG** | Production RAG with Gemini & Vector DBs, improving context relevance by 85% with hybrid search |
+
+## ⚡ Tech Stack
+### 🤖 Core AI/ML
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+### 🤖 LLMs & Agents
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+### 📊 Vector Databases
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-FF5F15?style=flat-square&logo=weaviate&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+### 🔧 MLOps & Cloud
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
+## 📊 GitHub Stats
 <div align="center">
-  <h3>🎯 Flagship Projects & Skills</h3>
-  
-  <table>
-    <tr>
-      <td valign="top" width="50%">
-        <h4>🎯 MarketRes</h4>
-        <p>Multi-Agent Market Analysis System with LangChain & AutoGPT, 80% research time reduction, 99.9% reliability</p>
-        <h4>🔮 CoraNet</h4>
-        <p>GNN architecture with attention mechanisms for ML forecasting using temporal graph networks</p>
-        <h4>📚 NoCap RAG</h4>
-        <p>Production RAG with Gemini & Vector DBs, 85% context relevance improvement, hybrid search</p>
-      </td>
-      <td valign="top" width="50%">
-        <p>
-          <b>🧠 Core AI/ML:</b> 
-          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-          <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-        </p>
-        <p>
-          <b>🤖 LLMs & Agents:</b>
-          <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-          <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-        </p>
-        <p>
-          <b>📊 Vector DBs:</b>
-          <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Weaviate-FF5F15?style=flat-square&logo=weaviate&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-        </p>
-        <p>
-          <b>🔧 MLOps & Cloud:</b>
-          <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
-          <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-        </p>
-        <p>
-          <b>💻 Languages:</b>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-        </p>
-      </td>
-    </tr>
-  </table>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=TejasUpadhyayy&show_icons=true&theme=radical"/>
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=TejasUpadhyayy&theme=radical"/>
 </div>
 
-<!-- Stats Combined -->
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=TejasUpadhyayy&show_icons=true&theme=nightowl&hide_border=true&bg_color=1a1b27&title_color=7C3AED&icon_color=7C3AED"/>
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=TejasUpadhyayy&theme=nightowl&hide_border=true&background=1a1b27&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED"/>
-</div>
-
-<!-- Certifications, Research, and Connect combined -->
-<div align="center">
-  <h3>🎓 Certifications & Research</h3>
-  <div style="display: flex; justify-content: center;">
-    <div style="margin-right: 20px;">
-      <p>
-        🎓 MLOps & ML Systems Design - Duke University<br>
-        🎓 AWS Machine Learning Specialty<br>
-        🎓 NVIDIA Deep Learning & GPU Optimization
-      </p>
-    </div>
-    <div>
-      <p>
-        📄 Multi-Agent Systems for Autonomous Decision Making<br>
-        📄 Large Language Models & Emergent Abilities<br>
-        📄 Graph Neural Networks in AI Systems
-      </p>
-    </div>
-  </div>
-  
-  <h3>Connect</h3>
-  <a href="mailto:tejas.initiate@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/TejasUpadhyayy">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://huggingface.co/TejasUpadhyayy">
-    <img src="https://img.shields.io/badge/HF-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  </a>
-</div>
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,19,20,21&height=80&section=footer"/>
-</div>
+## 📬 Let's Connect!
+<p align="center">
+  <a href="https://www.linkedin.com/in/tejasupadhyayy"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:tejas.initiate@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/TejasUpadhyayy"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a>
+</p>
